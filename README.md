@@ -33,7 +33,7 @@ There a lot of speed improvements since Taco Proxy, mainly including:
 #### [proxy.tacosheel.dev](https://proxy.tacosheel.dev)
 
 # Deploy
-<a href="https://heroku.com/deploy?template=https://github.com/Tacosheel/TacoProxyV2" title="Deploy to Heroku"><img alt="Deploy to Heroku" src="https://www.herokucdn.com/deploy/button.svg" width="140" height="30"><img></a>
+<a href="https://heroku.com/deploy?template=https://github.com/urmomlol980034/urmomlol69" title="Deploy to Heroku"><img alt="Deploy to Heroku" src="https://www.herokucdn.com/deploy/button.svg" width="140" height="30"><img></a>
 &nbsp;
 
 ## Running locally
